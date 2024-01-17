@@ -32,6 +32,8 @@ GROUP BY store_id
 HAVING AVG(revenue) > 1000000
 ORDER BY store_id
 ```
+- **NOTE** : The ROUND(number,decimal_we_want) function rounds a number to a specified number of decimal places.
+
 ![Alt text](image-4.png)
 ```sql
 select video_id
