@@ -1,5 +1,5 @@
-# Analyst-Builder-SQL-Solutions
-### I have tried to solve every free sql questions from [Analyst Builder](https://www.analystbuilder.com/).
+# Analyst-Builder-SQL Problem-Solutions
+### I have tried to solve every free SQL question from [Analyst Builder](https://www.analystbuilder.com/).
 
 ![Alt text](image.png)
 
